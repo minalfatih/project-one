@@ -1,0 +1,2 @@
+create page on home
+create new add
