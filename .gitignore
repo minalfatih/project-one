@@ -1,0 +1,4 @@
+amina.txt
+*.exe
+!impamina.exe
+noamina/
