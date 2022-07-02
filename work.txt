@@ -1,4 +1,3 @@
-create new add
 hello world
 create dasbord
 create page login
