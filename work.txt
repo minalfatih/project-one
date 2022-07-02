@@ -2,3 +2,4 @@ create new add
 hello world
 create dasbord
 create page login
+create page forget password
